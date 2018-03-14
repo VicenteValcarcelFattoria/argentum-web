@@ -9,6 +9,7 @@ import br.com.caelum.argentum.modelo.SerieTemporal;
 
 public class GeradorModeloGrafico {
 	
+	//oi
 	private SerieTemporal serie;
 	private int comeco ;
 	private int fim;
